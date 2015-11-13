@@ -4,6 +4,10 @@ gem 'rails', '4.2.4'
 group :development, :test do
 gem 'sqlite3', '1.3.11'
 gem 'rspec-rails', '3.4.0'
+gem 'guard-rspec', '4.6.4'
+gem 'spork-rails', github: 'railstutorial/spork-rails'
+gem 'guard-spork', '2.1.0'
+gem 'childprocess', '0.5.7'
 end
 group :test do
 gem 'selenium-webdriver', '2.48.1'
