@@ -1,3 +1,8 @@
+# Ruby on Rails Tutorial: sample application
+This is the sample application for
+the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Wang Zelu](email:710693575@qq.com).
+
 == README
 
 This README would normally document whatever steps are necessary to get the
